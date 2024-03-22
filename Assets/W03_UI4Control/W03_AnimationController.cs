@@ -15,14 +15,13 @@ public class W03_AnimationController : MonoBehaviour
     void Update()
     {
         if(Input.GetKeyDown(KeyCode.M)) {
-            print("got M");
             if(animator.GetInteger("Control") == 0 || animator.GetInteger("Control") == 2)
             {
-                print("got 0");
+                print("Panel Moving Up");
                 animator.SetInteger("Control", 1);
             }else if(animator.GetInteger("Control") == 1)
             {
-                print("got 1");
+                print("Panel Moving Down");
                 animator.SetInteger("Control", 2);
             }
             
