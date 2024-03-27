@@ -5,7 +5,8 @@ using UnityEngine;
 public class Player_Transform_Rotate : MonoBehaviour
 {
     public Transform ObjectToRotate;
-    float rotationSpeed = 5f;
+    
+    public float rotationSpeed = 5f;
 
     void Update()
     {
