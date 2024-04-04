@@ -137,7 +137,7 @@ GameObject:
   - component: {fileID: 181294710}
   - component: {fileID: 181294714}
   m_Layer: 0
-  m_Name: Obstable1
+  m_Name: Obstacle1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1408,7 +1408,7 @@ GameObject:
   - component: {fileID: 1969256017}
   - component: {fileID: 1969256016}
   m_Layer: 0
-  m_Name: Obstable2
+  m_Name: Obstacle2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

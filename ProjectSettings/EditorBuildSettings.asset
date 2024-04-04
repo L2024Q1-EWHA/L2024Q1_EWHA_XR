@@ -6,9 +6,9 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/W04_LoadScene_Lecture/W04_Scene1.unity
-    guid: e75471e88a661794185f539e717e2294
+    path: Assets/EX_ChatingSystem_Simple/EX_ChattingSystem_Simple_Step1_Connect.unity
+    guid: 68b2ec9e209734b408aa7fd67cbc0456
   - enabled: 1
-    path: Assets/W04_LoadScene_Lecture/W04_Scene2.unity
-    guid: 2afceaecf3c65b540b491dd42b372a75
+    path: Assets/EX_ChatingSystem_Simple/EX_ChattingSystem_Simple_Step2_Chat.unity
+    guid: a6bc1bee6062f754383393515de6d786
   m_configObjects: {}
