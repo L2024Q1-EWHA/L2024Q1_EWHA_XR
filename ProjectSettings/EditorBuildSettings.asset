@@ -6,9 +6,9 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/EX_ChatingSystem_Simple/EX_ChattingSystem_Simple_Step1_Connect.unity
-    guid: 68b2ec9e209734b408aa7fd67cbc0456
+    path: Assets/W05_1_ChattingSystem_Sample/W05_1_MultiPlayer_ChattingSystem_Sample_Step1_Connect.unity
+    guid: af96771c8dc8f2044aa2aa4f2072c537
   - enabled: 1
-    path: Assets/EX_ChatingSystem_Simple/EX_ChattingSystem_Simple_Step2_Chat.unity
-    guid: a6bc1bee6062f754383393515de6d786
+    path: Assets/W05_1_ChattingSystem_Sample/W05_1_MultiPlayer_ChattingSystem_Sample_Step2_Chat.unity
+    guid: cccd612a1c9616645bb6a018d70cfe41
   m_configObjects: {}

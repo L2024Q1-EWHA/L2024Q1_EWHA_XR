@@ -13,9 +13,9 @@ MonoBehaviour:
   m_Name: PhotonServerSettings
   m_EditorClassIdentifier: 
   AppSettings:
-    AppIdRealtime: 106acf3a-2fa3-4b32-9169-b9f80a274247
+    AppIdRealtime: 68ddef05-5ec5-4857-a1dc-f8c28d98f4b7
     AppIdFusion: 
-    AppIdChat: 
+    AppIdChat: e672ffae-486c-4674-88e3-75301db7dfd6
     AppIdVoice: 
     AppVersion: 
     UseNameServer: 1
